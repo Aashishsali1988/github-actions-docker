@@ -23,6 +23,10 @@ public class SpringBootDockerApplication {
 		git branch -M main
 		git remote add origin https://github.com/Aashishsali1988/github-actions-docker.git
 		git push -u origin main
+
+		git remote add origin https://github.com/Aashishsali1988/github-actions-docker.git
+		git branch -M main
+		git push -u origin main
 	*/
 
 	public static void main(String[] args) {
